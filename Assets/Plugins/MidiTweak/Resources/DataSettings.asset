@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29359996e34b5774ca15590e9b0a2504, type: 3}
+  m_Name: DataSettings
+  m_EditorClassIdentifier: 
+  DebugMode: 0
+  DebugDisplayMidiInputs: 0
+  BaseZoomRange: 1000
+  ZoomIncrementAmount: 25
+  ResetToDefaultZoomOnFreeze: 1
+  RequireRecenterOnFreeze: 1
+  LimitInputToMidiAssignments: 0
+  midiActivationTolerance: 1
+  KeepChangesAfterSceneLoad: 1
+  SaveSceneOnMidiAssignment: 0
+  displayInGameTweakMenuOnPlay: 1
+  instantiateInGameTweakMenuOnPlay: 1
