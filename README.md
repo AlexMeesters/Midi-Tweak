@@ -8,17 +8,12 @@ It uses reflection to fetch variables from components so they can be tweaked dur
 
 ## Images
 
-<p align="center">
+
   <img src="https://github.com/AlexMeesters/Midi-Tweak/blob/master/Images/img1.jpg">
-</p>
 
-<p align="center">
   <img src="https://github.com/AlexMeesters/Midi-Tweak/blob/master/Images/img2.jpg">
-</p>
 
-<p align="center">
   <img src="https://github.com/AlexMeesters/Midi-Tweak/blob/master/Images/img3.jpg">
-</p>
 
 
 ## LICENCE
